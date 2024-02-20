@@ -1,4 +1,5 @@
 # Time tracking saas 
 
-Time tracking saas where team lead can create team and tasks . each team memebers can create an time entry which
-which is dispalyed on the dashboard to measure productivity
+Time tracking saas where the lead can create a team and tasks for each teams.
+Team memebers can create an entry of time spent on a particular project 
+The time spent is automatically collated and dispayed on dashboard to measure the team productivity
